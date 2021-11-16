@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-contract-example'
+include 'client'
+include 'server'
+
